@@ -1,6 +1,8 @@
 # web_scraping
 
-Some basic web scraping scripts using BeautifulSoup4 and Python.
+Some basic beginner-level web scraping scripts using BeautifulSoup4 and Python. It was my first time trying to web scrape and I loved it ! 
+
+Websites scraped: Cricbuzz,Wikipedia
 
 ##How to install BeautifulSoup4 ?
 
